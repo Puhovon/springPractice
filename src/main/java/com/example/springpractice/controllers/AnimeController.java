@@ -17,7 +17,7 @@ public class AnimeController {
     }
 
     @GetMapping
-    public List<Anime> getAllBooks() {
+    public List<Anime> getAllAnime() {
         return service.findAll();
     }
 

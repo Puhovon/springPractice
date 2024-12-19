@@ -13,8 +13,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springpractice/AnimeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springpractice/AnimeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springpractice/SpringPracticeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springpractice/SpringPracticeApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springpractice/controllers/AnimeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springpractice/controllers/AnimeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springpractice/models/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springpractice/models/Anime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springpractice/repository/AnimeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springpractice/repository/AnimeRepository.java" afterDir="false" />
@@ -71,6 +71,7 @@
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "3cffc915ad60dcccfdca51bd07865597",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -91,7 +92,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734599025581</updated>
-      <workItem from="1734599026599" duration="3811000" />
+      <workItem from="1734599026599" duration="4427000" />
+      <workItem from="1734604401541" duration="112000" />
     </task>
     <servers />
   </component>
