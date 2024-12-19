@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="590755b7-9ccf-4e9d-bb9d-6b53bb60c87c" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springpractice/controllers/AnimeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
@@ -84,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734599025581</updated>
-      <workItem from="1734599026599" duration="1624000" />
+      <workItem from="1734599026599" duration="1903000" />
     </task>
     <servers />
   </component>
